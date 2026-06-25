@@ -198,33 +198,11 @@ atau gunakan Google Colab.
 
 ---
 
-## Struktur File
-
-```bash
-.
-├── Unsupervised_Learning_Customer_Personality_Analysis.ipynb
-├── cpa.csv
-└── README.md
-```
-
----
-
 ## Kesimpulan
 
 Project ini berhasil menerapkan metode Unsupervised Learning menggunakan K-Means Clustering untuk melakukan segmentasi pelanggan berdasarkan pola perilaku dan karakteristik pelanggan.
 
 Hasil clustering menunjukkan adanya dua kelompok pelanggan utama dengan karakteristik yang berbeda, sehingga dapat digunakan sebagai dasar pengambilan keputusan bisnis dan strategi pemasaran yang lebih efektif.
-
----
-
-## Teknologi
-
-- Python
-- Google Colab
-- Jupyter Notebook
-- Scikit-Learn
-- Matplotlib
-- Seaborn
 
 ---
 
