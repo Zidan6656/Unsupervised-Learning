@@ -1,7 +1,5 @@
 # Customer Personality Analysis - Unsupervised Learning
 
-# Customer Personality Analysis - Unsupervised Learning
-
 Proyek ini merupakan implementasi **Unsupervised Learning** menggunakan algoritma **K-Means Clustering** untuk melakukan segmentasi pelanggan berdasarkan karakteristik dan perilaku pembelian pelanggan.
 
 Notebook ini dibuat menggunakan Google Colab / Jupyter Notebook sebagai bagian dari tugas mata kuliah Data Science.
